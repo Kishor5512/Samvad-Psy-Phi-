@@ -1,0 +1,29 @@
+[
+  {
+    "id": "vid-namaste",
+    "title": "Namaste",
+    "category": "Greetings",
+    "videoUrl": "/videos/namaste.mp4",
+    "thumbnailUrl": "/thumbnails/namaste.jpg",
+    "gloss": "GREETING HANDS JOINED NAMASTE",
+    "durationSeconds": 3
+  },
+  {
+    "id": "vid-thank-you",
+    "title": "Thank You",
+    "category": "Greetings",
+    "videoUrl": "/videos/thank_you.mp4",
+    "thumbnailUrl": "/thumbnails/thank-you.jpg",
+    "gloss": "THANK YOU GRATITUDE",
+    "durationSeconds": 3
+  },
+  {
+    "id": "vid-what-is-your-name",
+    "title": "What is your name?",
+    "category": "General Desk",
+    "videoUrl": "/videos/what_is_your_name.mp4",
+    "thumbnailUrl": "/thumbnails/what-is-your-name.jpg",
+    "gloss": "NAME YOUR WHAT QUESTION",
+    "durationSeconds": 4
+  }
+]
