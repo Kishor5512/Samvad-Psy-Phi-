@@ -5,6 +5,7 @@ node_modules/
 # Build output
 dist/
 build/
+.vite/
 
 # Environment credentials (DO NOT COMMIT)
 .env
@@ -21,3 +22,8 @@ Thumbs.db
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+
